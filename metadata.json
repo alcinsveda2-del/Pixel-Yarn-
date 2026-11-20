@@ -1,0 +1,6 @@
+{
+  "name": "PixelYarn – Crochet Pixel Pattern Studio",
+  "description": "Free offline-ready crochet pixel pattern studio with photo-to-pattern conversion, interactive stitch grid designer, independent row stitch counters, and PDF/PNG exports.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": []
+}
